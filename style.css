@@ -45,7 +45,6 @@ body {
 .bar8 {
   animation-delay: 0.8s;
 }
-
 @keyframes loader {
   0% {
     transform: scaleY(0.1);
